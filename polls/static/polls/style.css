@@ -1,6 +1,17 @@
 li a {
-    color: green;
+    color: lightblue;
+
 }
 body {
-    background: white url("images/background.gif") no-repeat right bottom;
+    background: white url("image/background.gif") center;
+    background-color: lightblue;
+    text-align:center;
+    font-style: italic;
+    font-size: 80px;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    text-shadow: 3px 2px black;
+    display: inline;
+    font-weight: bold;
 }
